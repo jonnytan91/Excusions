@@ -26,7 +26,9 @@
 <body>
   <!-- your content here... -->
   <header>
-  	test
+  	<h1>
+  		Discover hidden places in the world around you
+  	</h1>
   </header>
   
   <script src="js/scripts.js"></script>
