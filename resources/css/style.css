@@ -1,0 +1,29 @@
+* {
+	 font-family: Verdana, sans-serif;
+	background-color: #000000;
+	color: #ffffff;
+	text-align: center;
+}
+.cta {
+    color: Aquamarine;
+    font-size: 16px;
+}
+
+h1 {
+    font-size: 50px;
+    font-weight: normal;
+}
+
+h2 {
+    font-size: 42px;
+    font-weight: 300;
+}
+
+p {
+    color: Gray;
+    font-size: 21px;
+}
+
+.footer {
+    text-align: right;
+} 
