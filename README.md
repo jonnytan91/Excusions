@@ -1,1 +1,1 @@
-# Excusions
+# Excursions
